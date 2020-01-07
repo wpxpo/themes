@@ -1,1 +1,14 @@
-[{"name":"Centra","slug":"centra","images":"https:\/\/raw.githubusercontent.com\/themegrill\/themegrill-demo-pack\/master\/resources\/cenote\/cenote-free\/screenshot.jpg","preview":"https:\/\/www.google.com"},{"name":"Yatra","slug":"yatra","images":"https:\/\/raw.githubusercontent.com\/themegrill\/themegrill-demo-pack\/master\/resources\/cenote\/cenote-free\/screenshot.jpg","preview":"https:\/\/www.yahoo.com"}]
+[
+    {
+        'name' => 'Centra',
+        'slug' => 'centra',
+        'images' => 'https://raw.githubusercontent.com/themegrill/themegrill-demo-pack/master/resources/cenote/cenote-free/screenshot.jpg',
+        'preview' => 'https://themegrill.com/themes/flash/',
+    },
+    {
+        'name' => 'Yatra',
+        'slug' => 'yatra',
+        'images' => 'https://raw.githubusercontent.com/themegrill/themegrill-demo-pack/master/resources/cenote/cenote-free/screenshot.jpg',
+        'preview' => 'https://themegrill.com/themes/cenote/',
+    }
+]
