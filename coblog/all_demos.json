@@ -1,14 +1,1 @@
-[
-    {
-        "name" : "Centra",
-        "slug" : "centra",
-        "images" : "https://raw.githubusercontent.com/themegrill/themegrill-demo-pack/master/resources/cenote/cenote-free/screenshot.jpg",
-        "preview" : "https://themegrill.com/themes/flash/"
-    },
-    {
-        "name" : "Yatra",
-        "slug" : "yatra",
-        "images" : "https://raw.githubusercontent.com/themegrill/themegrill-demo-pack/master/resources/cenote/cenote-free/screenshot.jpg",
-        "preview" : "https://themegrill.com/themes/cenote/"
-    }
-]
+{"centra":{"name":"Coblog","images":"https:\/\/raw.githubusercontent.com\/themegrill\/themegrill-demo-pack\/master\/resources\/cenote\/cenote-free\/screenshot.jpg","preview":"https:\/\/wordpress.org\/themes\/coblog\/","desc":"One This is the default Cenote demo to highlight your blogs in your website.","plugins":[{"name":"Contact Form 7","url":"https:\/\/wordpress.org\/plugins\/contact-form-7\/","download_url":"https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.1.6.zip"},{"name":"Social Media Block","url":"https:\/\/wordpress.org\/plugins\/social-media-block\/","download_url":"https:\/\/downloads.wordpress.org\/plugin\/social-media-block.1.0.0.zip"}]},"yatra":{"name":"Hello","images":"https:\/\/raw.githubusercontent.com\/themegrill\/themegrill-demo-pack\/master\/resources\/colormag\/colormag-dark\/screenshot.jpg","preview":"https:\/\/wordpress.org\/themes\/hello-elementor\/","desc":"Two This is the default Cenote demo to highlight your blogs in your website.","plugins":[{"name":"Contact Form 7","url":"https:\/\/wordpress.org\/plugins\/contact-form-7\/","download_url":"https:\/\/downloads.wordpress.org\/plugin\/contact-form-7.5.1.6.zip"},{"name":"Social Media Block","url":"https:\/\/wordpress.org\/plugins\/social-media-block\/","download_url":"https:\/\/downloads.wordpress.org\/plugin\/social-media-block.1.0.0.zip"}]}}
